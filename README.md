@@ -3,13 +3,13 @@
 
 # GoPay
 
-[English Document](https://github.com/iGoogle-ink/gopay/blob/master/README_EN.md)
+[English Document](https://github.com/extvos/gopay/blob/master/README_EN.md)
 
 微信和支付宝的Golang版本SDK
 
 ![Author](https://img.shields.io/badge/author-Jerry-blue.svg)
 [![Golang](https://img.shields.io/badge/golang-1.11+-brightgreen.svg)](https://golang.org)
-[![Godoc](https://img.shields.io/badge/godoc-reference-informational.svg)](https://godoc.org/github.com/iGoogle-ink/gopay)
+[![Godoc](https://img.shields.io/badge/godoc-reference-informational.svg)](https://godoc.org/github.com/extvos/gopay)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/iGoogle-ink/gopay)
 ![Travis (.org)](https://img.shields.io/travis/iGoogle-ink/gopay)
 ![License](https://img.shields.io/github/license/iGoogle-ink/gopay)
@@ -103,17 +103,17 @@
 # 一、安装
 
 ```bash
-$ go get -u github.com/iGoogle-ink/gopay
+$ go get -u github.com/extvos/gopay
 ```
 
 * #### 查看 GoPay 版本
-    * [版本更新记录](https://github.com/iGoogle-ink/gopay/blob/master/release_note.txt)
+    * [版本更新记录](https://github.com/extvos/gopay/blob/master/release_note.txt)
 ```go
 package main
 
 import (
     "fmt"
-    "github.com/iGoogle-ink/gopay"
+    "github.com/extvos/gopay"
 )
 
 func main() {
@@ -123,7 +123,7 @@ func main() {
 
 # 二、文档说明
 
-* [GoDoc](https://godoc.org/github.com/iGoogle-ink/gopay)
+* [GoDoc](https://godoc.org/github.com/extvos/gopay)
 * 所有方法，如有问题，请仔细查看 examples
 * 有问题请加QQ群（加群验证答案：gopay）。在此，非常感谢那些加群后，提出意见和反馈问题的同志们！
 

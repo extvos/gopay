@@ -3,7 +3,7 @@ package wechat
 import (
 	"fmt"
 
-	"github.com/iGoogle-ink/gopay"
+	"github.com/extvos/gopay"
 )
 
 func Refund() {

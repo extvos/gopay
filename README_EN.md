@@ -3,13 +3,13 @@
 
 # GoPay
 
-[中文文档](https://github.com/iGoogle-ink/gopay/blob/master/README.md)
+[中文文档](https://github.com/extvos/gopay/blob/master/README.md)
 
 The Golang SDK for WeChat and AliPay
 
 ![Author](https://img.shields.io/badge/author-Jerry-blue.svg)
 [![Golang](https://img.shields.io/badge/golang-1.11+-brightgreen.svg)](https://golang.org)
-[![Godoc](https://img.shields.io/badge/godoc-reference-informational.svg)](https://godoc.org/github.com/iGoogle-ink/gopay)
+[![Godoc](https://img.shields.io/badge/godoc-reference-informational.svg)](https://godoc.org/github.com/extvos/gopay)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/iGoogle-ink/gopay)
 ![Travis (.org)](https://img.shields.io/travis/iGoogle-ink/gopay)
 ![License](https://img.shields.io/github/license/iGoogle-ink/gopay)
@@ -98,7 +98,7 @@ The Golang SDK for WeChat and AliPay
 # Install
 
 ```bash
-$ go get -u github.com/iGoogle-ink/gopay
+$ go get -u github.com/extvos/gopay
 ```
 
 ## View the GoPay version
@@ -108,7 +108,7 @@ package main
 
 import (
     "fmt"
-    "github.com/iGoogle-ink/gopay"
+    "github.com/extvos/gopay"
 )
 
 func main() {
@@ -118,7 +118,7 @@ func main() {
 
 # Document
 
-* [GoDoc](https://godoc.org/github.com/iGoogle-ink/gopay)
+* [GoDoc](https://godoc.org/github.com/extvos/gopay)
 
 * If you have any questions, Please add Wechat Group. Please click a star.
 

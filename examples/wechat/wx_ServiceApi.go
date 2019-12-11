@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/iGoogle-ink/gopay"
+	"github.com/extvos/gopay"
 )
 
 func Code2Session() {
